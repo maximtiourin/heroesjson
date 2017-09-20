@@ -29,7 +29,9 @@ exports.EXTRA_HEROES_HEROMODS_NAMED =
     "zuljin": "zuljin",
     "varian": "varian",
     "genji": "genji",
-    "malthael": "malthael"
+    "malthael": "malthael",
+    "kelthuzad": "kelthuzad",
+    "ana": "ana"
 };
 
 exports.SKIP_HERO_IDS = ["GreymaneWorgen", "ChoGallBundleProduct"];
